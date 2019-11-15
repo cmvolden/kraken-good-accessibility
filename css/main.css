@@ -63,10 +63,15 @@ html {
   .no-print {
     display: none;
   }
+
   .chapter-ends {
     background-color: #fff;
     border: none;
     color: #000;
+  }
+
+  .inset-img {
+    border-color: #000;
   }
 
 }
