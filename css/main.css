@@ -58,7 +58,15 @@ html {
   border-radius: 6px 6px 0 0;
 }
 
-@media print,
-.no-print {
-  display: none;
+@media print {
+
+  .no-print {
+    display: none;
+  }
+  .chapter-ends {
+    background-color: none;
+    border: none;
+    color: none;
+  }
+
 }
