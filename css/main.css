@@ -64,9 +64,9 @@ html {
     display: none;
   }
   .chapter-ends {
-    background-color: none;
+    background-color: #fff;
     border: none;
-    color: none;
+    color: #000;
   }
 
 }
